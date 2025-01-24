@@ -4,14 +4,9 @@
 
 ## 👨‍💻 About Me
 - 🌟 My goal is to become a **successful software engineer**.
-- 💻 I code using **VS Code**, and I’m currently dual-booting **Windows 11** and **Kali Linux** (with PosrOG theme).  
+- 💻 I code using **VS Code**.  
 - 🎮 In my free time, you can find me playing **PUBG** or exploring new games.  
-- 🚀 I’m working on building a website that will feature:
-  - Blogs  
-  - Tech News  
-  - Tutorials  
-  - Coding Guides  
-  - Gaming Content  
+
 
 ## 💡 What I’m Exploring
 - Web Development  
@@ -20,10 +15,10 @@
 - Tools and frameworks for **educational purposes**.  
 
 ## 📈 Skills
-- **Programming Languages**: Python, JavaScript, C++  
+- **Programming Languages**: Python, JavaScript, C++, Java
 - **Tools**: Git, Kali Linux, VS Code  
 - **Technologies**: HTML, CSS, React, Node.js  
-- **Learning**: Advanced Web Development, Backend Systems, and DevOps.  
+- **Learning**: Advanced Web Development, Backend Systems, Data structures and algorithms and DevOps.
 
 
 Let’s collaborate and build something awesome together! 🚀  
