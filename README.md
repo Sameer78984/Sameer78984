@@ -57,6 +57,14 @@
 
 ## 📌 Featured Projects
 
+### 🔹 3D Developer Portfolio — Personal Website
+- Built with **Next.js**, **React**, and modern 3D web techniques  
+- Interactive **3D portfolio** showcasing projects, skills, and experience  
+- Optimized for performance, responsiveness, and smooth user experience  
+- Designed to reflect a strong engineering-focused personal brand  
+
+🌐 Live: https://sameer-swe.dev
+
 ### 🔹 ConversionHub — Web Application
 - Built using **Next.js, React, and modern CSS**
 - Designed with performance, accessibility, and scalability in mind
