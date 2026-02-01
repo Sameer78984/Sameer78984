@@ -57,6 +57,14 @@
 
 ## 📌 Featured Projects
 
+### 🔹 NeonSprintMate — Fullstack Web Application
+- Team Task manager with full customization
+- Built using **Next.js, React, Tailwindcss and modern libraries like daisyui**
+- Designed with performance, accessibility, and scalability in mind
+- Follows Multi tier architecture with frontend on **Vercel** backend on **Replit** and Database on **Neon**. 
+
+🌐 Live: https://conversionhub.vercel.app/
+
 ### 🔹 3D Developer Portfolio — Personal Website
 - Built with **Next.js**, **React**, and modern 3D web techniques  
 - Interactive **3D portfolio** showcasing projects, skills, and experience  
@@ -138,9 +146,9 @@ Emerging Tech   → AI APIs | Blockchain Fundamentals
 
 <p align="left">
   <a href="mailto:sameer.swe.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sameer_swe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/sameermughal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Sameer78984"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
