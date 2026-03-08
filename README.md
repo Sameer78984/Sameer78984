@@ -105,7 +105,7 @@
 - Advanced **Next.js App Router** and Server Components  
 - Improving **TypeScript** patterns and type safety  
 - Backend fundamentals: authentication, validation, error handling  
-- **Data Structures & Algorithms** using C++ and JavaScript  
+- **Data Structures & Algorithms** using C++  
 
 ---
 
