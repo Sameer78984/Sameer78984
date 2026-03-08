@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Interests in 2025
+## 🎯 Interests in 2026
 
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-191919?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=Python&logoColor=yellow)
