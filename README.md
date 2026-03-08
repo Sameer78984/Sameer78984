@@ -136,6 +136,7 @@
 - Improving **TypeScript** patterns and type safety
 - Backend fundamentals: authentication, validation, error handling
 - **Data Structures & Algorithms** using C++
+- Game development experimentation using **Godot Engine (2D & 3D)** and **GDScript**, building small prototype games and gameplay systems
 
 ---
 
