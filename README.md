@@ -13,6 +13,8 @@
 - 💻 Focused on **Full-Stack Web Development**, **Software Engineering**, and **Problem Solving**  
 - 🌐 Actively working with **TypeScript**, **Next.js**, and modern web stacks  
 - 🎮 Experience with **Godot Game Engine** and **Game Development fundamentals**
+- 🕹 Built several **small experimental games using Godot (2D and 3D)** to explore gameplay systems, scripting, and engine architecture
+- 🧩 Comfortable with **GDScript**, scene system, node-based architecture, and prototyping gameplay mechanics (projects currently unpublished)
 - 🧠 Exploring **AI**, **Blockchain**, and **Cloud Platforms** from an engineering perspective  
 - 📈 Committed to continuous improvement and real-world project development  
 
