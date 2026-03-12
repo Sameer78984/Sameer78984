@@ -158,20 +158,6 @@ Emerging Tech   → AI APIs | Blockchain Fundamentals
 - Familiar with Git workflows, pull requests, and issue tracking
 - Open to collaboration and open-source contributions
 
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameermughal&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameermughal&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameermughal&theme=tokyonight" width="95%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
