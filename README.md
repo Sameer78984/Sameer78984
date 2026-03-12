@@ -85,7 +85,7 @@
 - Designed with performance, accessibility, and scalability in mind
 - Follows Multi tier architecture with frontend on **Vercel** backend on **Replit** and Database on **Neon**
 
-🌐 Live: https://conversionhub.vercel.app/
+🌐 Live: //https://neonsprintmate.vercel.app/
 
 ---
 
