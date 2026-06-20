@@ -110,7 +110,7 @@
 
 ---
 
-### 🔹 ZAPTalk — Real-Time Chat Application
+### 🔹 ZapTalk — Real-Time Chat Application
 
 - Built with **React**, **Node.js**, and real-time technology
 - Implements real-time message updates and responsive layout
@@ -140,7 +140,7 @@
 
 ---
 
-## 📈 Learning Roadmap (2025)
+## 📈 Learning Roadmap (2026)
 
 ```text
 Frontend        → Advanced React | Next.js | Performance
