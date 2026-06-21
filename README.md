@@ -116,7 +116,7 @@
 - Implements real-time message updates and responsive layout
 - Designed with scalable architecture and clean UI
 
-🌐 Live: https://zaptalk-2ldcn.sevalla.app/
+🌐 Live: https://zaptalk.publicvm.com/
 
 ---
 
