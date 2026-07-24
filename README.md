@@ -97,7 +97,7 @@
 - Implemented responsive layouts, optimized rendering, and performance-focused development practices
 - Created a developer-focused personal brand experience with modern UI/UX principles
 
-🌐 Live: https://sameer-swe.dev
+🌐 Live: https://sameer-swe.vercel.app/
 
 
 ---
