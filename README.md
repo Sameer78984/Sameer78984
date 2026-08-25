@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | Software Engineer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%F0%9F%92%BB;Full-Stack%20Web%20Developer%20%F0%9F%93%90;AI%20and%20Blockchain%20Explorer%20%F0%9F%92%BB;Cloud%20Computing%20Enthusiast%20%E2%98%81%EF%B8%8F;Always%20Learning%20%F0%9F%93%9A&center=true&width=600&height=45&pause=1000" alt="Typing SVG" />
@@ -8,8 +8,7 @@
 ---
 
 ## 🧠 About Me
-
-- 🎓 Pursuing **BS Software Engineering** from Virtual University of Pakistan  
+ 
 - 💻 Focused on **Full-Stack Web Development**, **Software Engineering**, and **Problem Solving**  
 - 🌐 Actively working with **TypeScript**, **Next.js**, and modern web stacks  
 - 🎮 Experience with **Godot Game Engine** and **Game Development fundamentals**
