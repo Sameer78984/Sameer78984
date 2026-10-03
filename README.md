@@ -190,4 +190,3 @@ Emerging Tech   → AI APIs | Blockchain Fundamentals
 <p align="center">
   <sub>Focused on fundamentals. Consistent execution. Long-term growth.</sub>
 </p>
-
